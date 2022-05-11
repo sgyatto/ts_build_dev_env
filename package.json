@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/sgyatto/ts_build_dev_env/issues"
   },
-  "homepage": "https://github.com/sgyatto/ts_build_dev_env#readme"
+  "homepage": "https://github.com/sgyatto/ts_build_dev_env#readme",
+  "volta": {
+    "node": "16.15.0",
+    "npm": "8.5.5"
+  }
 }
