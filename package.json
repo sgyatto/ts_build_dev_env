@@ -1,0 +1,29 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgyatto/ts_build_dev_env.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgyatto/ts_build_dev_env/issues"
+  },
+  "homepage": "https://github.com/sgyatto/ts_build_dev_env#readme",
+  "volta": {
+    "node": "16.15.0",
+    "npm": "8.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.32",
+    "typescript": "^4.6.4"
+  }
+}
